@@ -1,7 +1,7 @@
 # Hello! 👋<br/>I am Ronak :)
 
 ## About Me:
-I am an undergraduate student at IIIT-Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, JavaScript, HTML/CSS, Assembly and Bash.
+I am an undergraduate student at IIIT-Hyderabad, majoring in Computer Science and Engineering. My technology stack includes C, C++, Python, JavaScript, HTML/CSS, Assembly and Bash.
  - 📫 How to reach me: ronak.dhingra@students.iiit.ac.in  
  - 📝 [My LinkedIn](https://www.linkedin.com/in/ronak-dhingra/)  
 
